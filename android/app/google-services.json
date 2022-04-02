@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642009013959",
+    "project_id": "canary-39509",
+    "storage_bucket": "canary-39509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642009013959:android:0a94a37766fa79572668e2",
+        "android_client_info": {
+          "package_name": "com.example.canary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642009013959-7t91co1cso6i4re1oogbni04kng2pc03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxPf6CDIqG8AUexUkz2_IJOYW6wAd1MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642009013959-7t91co1cso6i4re1oogbni04kng2pc03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
